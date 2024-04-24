@@ -11,7 +11,7 @@ QtObject {
     readonly property real cubeScale: 0.5
     readonly property int cubeSize: 100 * cubeScale
 
-    readonly property real stretchScale: 2
+    readonly property real stretchScale: 5
 
     readonly property int stretchDuration: 2000 // milliseconds
 }
